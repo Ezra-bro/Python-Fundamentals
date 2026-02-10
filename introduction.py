@@ -1,0 +1,5 @@
+print("Helllo World!")
+print("Ezra")
+print(30 + 20)
+name = input("What is your name? ")
+print("Hello " + name)
