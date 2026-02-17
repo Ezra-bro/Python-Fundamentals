@@ -12,6 +12,8 @@ print("Are you married?", isMarried)
 
 # Data structures - Multiple values stored in a single variable
 cars = ["Toyota", "Mercedes", "Audi", "Volvo", "BMW"] #List - Ordered and Changeable
+
+languages = ["English", "French", "Swedish"]
 fruits = ("Banana", "Cherry", "Mango", "Peas") #Tuple - Ordered and Unchangeable
 countries = {"England", "Netherlands", "Argentina", "France"} #Set - Unordered and Unchangeable
 student = {
@@ -28,3 +30,7 @@ print(student)
 print(student["firstname"])
 
 #Typecasting
+
+print(int(temperature))
+
+print(float(age))
